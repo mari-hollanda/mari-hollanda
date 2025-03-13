@@ -10,6 +10,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mari-hollanda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-hollanda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mari-hollanda&icon=7&color=1)](https://visitcount.itsvg.in)
