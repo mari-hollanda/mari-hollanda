@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 💫 Hello World!
-🌷 Teacher of Computer Science at Escola de Programação e Empreendedorismo de Saquarema<br>👩🏻‍💻 Currently pursuing a Bachelor of Software Engineering<br>👩🏻‍🎓 Studied Computer Information Systems at Holland College, Canada<br>
+🌷 On the path to be a Full Stack Developer👩🏻‍💻 Currently pursuing a Bachelor of Software Engineering<br>👩🏻‍🎓 Studied Computer Information Systems at Holland College, Canada<br>
 
 
 # 💻 Tech Stack:
